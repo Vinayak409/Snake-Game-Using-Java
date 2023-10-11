@@ -1,0 +1,7 @@
+package snakegame;
+
+public class Board {
+	Board(){
+		
+	}
+}
